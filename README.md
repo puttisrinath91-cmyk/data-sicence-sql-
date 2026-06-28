@@ -141,9 +141,9 @@ http://localhost/Library_Management/
 
 ## 👨‍💻 Author
 
-**Gnaneshwar Pochammala**
+**putti srinath**
 
-* GitHub: https://github.com/gnaneshwar8143
+* https://github.com/puttisrinath91-cmyk/data-sicence
 
 ---
 
